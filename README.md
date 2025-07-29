@@ -105,3 +105,7 @@ It will open a local web interface at `http://localhost:8000`.
 This project is for educational/demo purposes. Add a license if you plan to share/distribute officially.
 
 ---
+
+#gitignore file ....command,,
+New-Item -Path . -Name ".gitignore" -ItemType "File"
+
